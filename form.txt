@@ -5,5 +5,7 @@ cấu trúc:
 - mô tả công việc
 3.mạng xã hội:
 - icon các ứng dụng mạng xã hội:facebook,instagram,tik tok,github,...
-4.liên hệ:
+4.Thông tin cơ bản:
+-Trường,tên,tuổi,nơi ở
+5.liên hệ:
 - button liên hệ:gmail
