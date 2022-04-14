@@ -1,0 +1,9 @@
+cấu trúc:
+*thẻ bao quát:
+1.Ảnh 
+2.tên:
+- mô tả công việc
+3.mạng xã hội:
+- icon các ứng dụng mạng xã hội:facebook,instagram,tik tok,github,...
+4.liên hệ:
+- button liên hệ:gmail
